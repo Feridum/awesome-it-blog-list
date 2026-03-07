@@ -1,13 +1,13 @@
-In the era of AI slop, generated content, SM algorithms and low quality content I've created list of worth reading sources.
+In the era of AI slop, generated content, SM algorithms and low-quality content, I've created a list of worth-reading sources.
 
 In the below list you will find blogs which are:
-- active (at least one content in previous 6 months)
+- active (at least one post in the previous 6 months)
 - valuable
 
-Help me build this source and advertise high-quality content (PR are welcomed)
+Help me build this source and advertise high-quality content (PRs are welcome)
 
 
-## Tech Companies blogs
+## Tech Companies Blogs
 
 ### English
 
