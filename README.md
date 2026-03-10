@@ -40,19 +40,31 @@ Help me build this source and advertise high-quality content (PRs are welcome)
 | Name | URL | RSS |
 |------|-----|-----|
 | Addy Osmani | [addyosmani.com](https://addyosmani.com/blog) | [rss.xml](https://addyosmani.com/rss.xml) |
+| Adrian Roselli | [adrianroselli.com](https://adrianroselli.com) | [feed](https://adrianroselli.com/feed) |
+| Ahmad Shadeed | [ishadeed.com](https://ishadeed.com) | [feed.xml](https://ishadeed.com/feed.xml) |
+| Alex MacArthur | [macarthur.me](https://macarthur.me) | [feed.xml](https://macarthur.me/rss/feed.xml) |
 | Andrej Karpathy | [karpathy.bearblog.dev](https://karpathy.bearblog.dev/) | [feed](https://karpathy.bearblog.dev/feed/) |
+| Boris Tane | [boristane.com](https://boristane.com) | [rss.xml](https://boristane.com/rss.xml) |
 | Dan Abramov | [overreacted.io](https://overreacted.io/) | [rss](https://overreacted.io/rss.xml) |
+| Dr. Axel Rauschmayer | [2ality.com](https://2ality.com) | [atom](https://2ality.com/feeds/posts.atom) |
+| Dries Buytaert | [dri.es](https://dri.es) | [rss.xml](https://dri.es/rss.xml) |
+| Guillaume Plique (Vjeux) | [blog.vjeux.com](https://blog.vjeux.com) | [feed](https://blog.vjeux.com/feed) |
+| Josh W. Comeau | [joshwcomeau.com](https://www.joshwcomeau.com) | [rss.xml](https://www.joshwcomeau.com/rss.xml) |
 | Konrad Kokosa | [kokosa.dev](https://kokosa.dev/) | [rss](https://kokosa.dev/rss/) |
 | Martin Fowler | [martinfowler.com](https://martinfowler.com/recent-changes.html) | [atom](https://martinfowler.com/feed.atom) |
+| Matt Smith | [allthingssmitty.com](https://allthingssmitty.com) | [atom](https://allthingssmitty.com/atom.xml) |
 | Oskar Dudycz | [Architecture Weekly](https://www.architecture-weekly.com/) | [feed.xml](https://www.architecture-weekly.com/feed.xml) |
+| Remy Sharp | [remysharp.com](https://remysharp.com) | [blog.xml](https://remysharp.com/blog.xml) |
 | Simon Willison | [simonwillison.net](https://simonwillison.net) | [atom](https://simonwillison.net/atom/entries/) |
+| Yan Cui | [theburningmonk.com](https://theburningmonk.com) | [feed](https://theburningmonk.com/feed/) |
 
 ### Polish
 
 | Name | URL | RSS |
 |------|-----|-----|
-| Michał Bartyzel | [michalbartyzel.pl](https://michalbartyzel.pl/blog) | [feed](https://michalbartyzel.pl/blog/feed) |
+| Aleksander Patschek | [aifullstack.pl](https://aifullstack.pl) | [rss.xml](https://aifullstack.pl/rss.xml) |
 | Informatyk Zakładowy | [informatykzakladowy.pl](https://informatykzakladowy.pl) | [feed](https://informatykzakladowy.pl/feed) |
+| Michał Bartyzel | [michalbartyzel.pl](https://michalbartyzel.pl/blog) | [feed](https://michalbartyzel.pl/blog/feed) |
 
 
 
