@@ -65,6 +65,7 @@ Help me build this source and advertise high-quality content (PRs are welcome)
 | Aleksander Patschek | [aifullstack.pl](https://aifullstack.pl) | [rss.xml](https://aifullstack.pl/rss.xml) |
 | Informatyk Zakładowy | [informatykzakladowy.pl](https://informatykzakladowy.pl) | [feed](https://informatykzakladowy.pl/feed) |
 | Michał Bartyzel | [michalbartyzel.pl](https://michalbartyzel.pl/blog) | [feed](https://michalbartyzel.pl/blog/feed) |
+| Weronika z polskieprogramistki.pl | [The Commit Line](https://thecommitline.substack.com/) | [feed](https://thecommitline.substack.com/feed.xml) |
 
 
 
