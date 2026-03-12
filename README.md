@@ -32,6 +32,7 @@ Help me build this source and advertise high-quality content (PRs are welcome)
 | Spotify Engineering | [engineering.atspotify.com](https://engineering.atspotify.com) | [feed](https://engineering.atspotify.com/feed) |
 | Stripe Engineering | [stripe.com/blog/engineering](https://stripe.com/blog/engineering) | [feed.rss](https://stripe.com/blog/feed.rss) |
 | Uber Engineering | [uber.com/blog/engineering](https://www.uber.com/blog/engineering/) | [rss](https://www.uber.com/blog/engineering/rss/) |
+|The Software House|[Effective Delivery](https://effectivedelivery.io/)|[feed](https://effectivedelivery.io/feed.xml)|
 
 ## Personal blogs
 
@@ -63,9 +64,11 @@ Help me build this source and advertise high-quality content (PRs are welcome)
 | Name | URL | RSS |
 |------|-----|-----|
 | Aleksander Patschek | [aifullstack.pl](https://aifullstack.pl) | [rss.xml](https://aifullstack.pl/rss.xml) |
+| Aleksander Patschek | [Fullstack Pulse](https://fspulse.substack.com/) | [feed](https://fspulse.substack.com/feed.xml) |
 | Informatyk Zakładowy | [informatykzakladowy.pl](https://informatykzakladowy.pl) | [feed](https://informatykzakladowy.pl/feed) |
 | Michał Bartyzel | [michalbartyzel.pl](https://michalbartyzel.pl/blog) | [feed](https://michalbartyzel.pl/blog/feed) |
 | Weronika z polskieprogramistki.pl | [The Commit Line](https://thecommitline.substack.com/) | [feed](https://thecommitline.substack.com/feed.xml) |
+|Joanna Otmianowska|[Pretekst do rozmyślań](https://joannaotmianowska.substack.com/)|[feed](https://joannaotmianowska.substack.com/feed.xml)|
 
 
 
